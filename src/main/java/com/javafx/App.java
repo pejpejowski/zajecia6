@@ -5,6 +5,7 @@ package com.javafx;
 
 public class App {
     void dodaj(double a, double b){
+        double c;
         System.out.println(a+b);
     }
 
