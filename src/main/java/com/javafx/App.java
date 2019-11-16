@@ -4,6 +4,10 @@
 package com.javafx;
 
 public class App {
+    void dodaj(double a, double b){
+        System.out.println(a+b);
+    }
+
     public String getGreeting() {
         return "Hello world.";
     }
